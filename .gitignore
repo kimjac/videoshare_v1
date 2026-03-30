@@ -1,0 +1,7 @@
+/uploads/videos/*
+!/uploads/videos/.gitkeep
+!/uploads/videos/hardkore/.gitkeep
+!/uploads/videos/paen/.gitkeep
+!/uploads/videos/sjov/.gitkeep
+/uploads/thumbs/*
+!/uploads/thumbs/.gitkeep

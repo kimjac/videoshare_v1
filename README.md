@@ -14,8 +14,8 @@ Engagement-driven content sorting
 Responsive design with dark/light mode
 Multi-language support (EN / DK)
 SEO-ready (sitemap + robots.txt)
-🔹 Status
 
+🔹 Status
 Version 1 (Prototype)
 Functional and ready for testing, with focus on iterative development.
 
@@ -24,6 +24,6 @@ Functional and ready for testing, with focus on iterative development.
 2. Import database.sql into MySQL
 3. Configure includes/config.php
 4. Open in browser
-🔹 Vision
 
+🔹 Vision
 VideoShare is built as a foundation for scalable media systems, including future support for AI-based metadata, content recognition, and network-driven traffic models.
